@@ -1,0 +1,29 @@
+.box-1 {
+
+    position: relative;
+    width: 100%;
+    height: 33%;
+    background-color: orange;
+
+}
+
+.box-3 {
+
+    position: relative;
+    width: 100%;
+    height: 33%;
+    background-color: green;
+
+}
+
+
+.container {
+
+    background-color:rgb(255, 255, 255);
+    width: 1404px;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
